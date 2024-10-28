@@ -29,6 +29,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Natnarin Muanrat](https://github.com/Natnarinnarin/): _Young Adults and Labor Markets in Africa_
 - [Mansoure Rahaei](https://github.com/mansourerahaei): _Do Poverty Traps Exist_
 - [Noha Metwally](https://github.com/NohaMetwally82): _Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing a Social Floor?_
+- [Arunima Pandey](https://github.com/Nemo77771/datascience.github.io.git): _How Can Lower-Income Countries Collect More Taxes? The Role of Technology, Tax Agents, and Politics
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
 - [Janice Talosig](https://github.com/janicetalosig):_Emerging Market Sovereign Debt in the Aftermath of the Pandemic_
 - [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and Socioeconomic Inequality_
